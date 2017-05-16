@@ -1,0 +1,50 @@
+body {
+	font-family: Arial;
+	background-color: #C8C8C8;
+	color: #6B8972;
+}
+
+.header {
+	text-align: center;
+	color: #055B19;	
+}
+
+
+.header h1 {
+	margin-left: 515px;
+	border: 2px solid #287B46;
+	width: 300px;
+}
+
+.main h3 {
+	text-align: center;
+	color: #4C4C4C;
+	font-size: 22px;
+}
+
+.btn {
+	margin-left: 570px;
+	margin-top: 80px;
+	text-align: center;
+	vertical-align: middle;
+	border-radius: 50%;
+	border: 3px solid white;
+	background-color: grey;
+	color: white;
+	width: 200px;
+	height: 200px;
+}
+
+.btn:hover {
+	border: 3px solid grey;
+	color: black;
+	background-color: white;
+}
+
+
+.btn img {
+	padding-top: 12px;
+	padding-left: 10px;
+	max-width: 90%;
+	max-height: 90%;
+}
